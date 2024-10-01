@@ -2,10 +2,13 @@
 
 ### About Us
 We are a team of experienced developers specializing in:
-- **TYPO3**
-- **WordPress**
-- **Symfony**
-- **Python**
+
+| [TYPO3](https://github.com/orgs/mai-space-de/teams/typo3-devs)                      | [Wordpress](https://github.com/orgs/mai-space-de/teams/wordpress-devs)                            | [Software (Symfony, Python, Kotlin)](https://github.com/orgs/mai-space-de/teams/software-devs) |
+|------------------------------|---------------------------------------------------|-----------------------|
+| ![TYPO3](../teams/typo3.jpg) | ![Wordpress](../teams/wordpress.jpg) | ![Software](../teams/software.jpg) |
+
+
+
 
 With years of expertise in the industry, we provide high-quality solutions tailored to the needs of our clients.
 
